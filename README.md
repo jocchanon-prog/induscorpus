@@ -25,7 +25,7 @@ bibtex
 }
 Updated Installation Section
 markdown
-## 📥 Getting the Dataset
+Getting the Dataset
 
 1. **Download the original images** from [Kaggle](https://www.kaggle.com/datasets/storesource/im-417-150)
 2. Extract the PNG files to a folder (e.g., `./indus_images/`)
@@ -37,7 +37,7 @@ The dataset includes:
 - Character labels M001–M417 corresponding to Mahadevan's concordance
 Updated Acknowledgments Section
 markdown
-## 🙏 Acknowledgments
+## Acknowledgments
 
 - **Iravatham Mahadevan** for his foundational 1977 concordance, *"The Indus Scripts: Texts, Concordance and Tables"* (Archaeological Survey of India)
 - **storesource** for creating and sharing the [IM-417-150 dataset on Kaggle](https://www.kaggle.com/datasets/storesource/im-417-150)
