@@ -7,7 +7,7 @@ Original Reference	Iravatham Mahadevan, "The Indus Scripts: Texts, Concordance a
 Images	417 grayscale images, 150×150 pixels each
 Format	PNG files and CSV with flattened pixel representations (22500 pixels per image)
 License	Apache 2.0
-Citation	storesource. (2024). IM-417-150 [Data set]. Kaggle. https://doi.org/10.34740/KAGGLE/DSV/8765432
+
 Attribution
 This corpus builds upon the foundational work of Iravatham Mahadevan (1977) and the digitization efforts of the Kaggle community. The original dataset contains 417 characters extracted from images of seals from the Indus Valley Civilization.
 
